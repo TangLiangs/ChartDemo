@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义的滑块-->
+    <declare-styleable name="ScrollBlockView">
+        <!--背景颜色-->
+        <attr name="bgColor" format="color|reference" />
+        <attr name="blockColor" format="color|reference" />
+    </declare-styleable>
+</resources>
