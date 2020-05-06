@@ -28,8 +28,8 @@ import androidx.annotation.Nullable;
 
 
 /**
- * Create by tangliangliang
- * on 2019/11/5
+ * Create by tangliang
+ * on 2020/5/6
  */
 public class ScrollBlockView extends View {
     // 背景颜色
