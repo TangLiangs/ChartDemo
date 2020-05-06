@@ -232,7 +232,7 @@ public class MainChartConfig {
 
 
     /**
-     * 主图表Y坐标轴设置
+     * 图表Y坐标轴设置
      */
     private void setMainYConfig() {
         YAxis yAxis = mMainChart.getAxisLeft();
